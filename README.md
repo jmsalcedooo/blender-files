@@ -46,7 +46,7 @@ Welcome to my 3D modeling showcase! This repository contains isometric scenes an
 </p>
 
 **Key Elements:**
-*   Stylized Devil boss figure
+*   Stylized casino boss map figure
 *   Minimalist low-poly terrain and background framing
 *   Custom game-inspired aesthetic
 
