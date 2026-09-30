@@ -10,7 +10,7 @@ Welcome to my 3D modeling showcase! This repository contains isometric scenes an
 ## 📌 Featured Projects
 
 ### 1. 🎈 Birthday Party Theme
-> *A vibrant isometric scene constructed using basic geometric primitives to practice fundamental mesh creation and lighting. The disco ball can spin when the animation player is ran.*
+> *A vibrant isometric scene constructed using basic geometric primitives to practice fundamental mesh creation and lighting. The disco ball can spin and the floor tiles flicker when the animation player is ran.*
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3a4f685b-60da-417f-af95-347b1c85b9b3" width="700" alt="Birthday Party Theme Render"/>
